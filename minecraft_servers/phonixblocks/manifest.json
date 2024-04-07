@@ -1,0 +1,38 @@
+{
+    "server_name": "phonixblocks",
+    "nice_name": "PhonixBlocks",
+    "direct_ip": "phonixblocks.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://phonixblocks.de",
+      "discord": "https://discord.gg/xpTf5TYtDv",
+      "youtube": "https://youtube.com/@Herr_WolfPhonix"
+      "tiktok": "https://www.tiktok.com/@herr_wolfphonix",
+      "instagram": "https://www.instagram.com/herr_wolfphonix_offizel",
+      "teamspeak": "phonixBlocks.de"
+      
+    },
+    "gamemodes": {
+      "Survival": {
+        "name": "Survival", 
+        "color": "#e76e11",
+        "versions": "1.20.1"
+    },
+    "dna": {
+      "name": "Crerative",
+      "color": "#e76e11",
+      "versions": "1.20.1"
+    }
+    },
+    "discord": {
+      "server_id": 1062417224717041814,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+  }
